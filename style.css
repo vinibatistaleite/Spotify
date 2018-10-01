@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.section1{
+    border: 1px none;
+    height: 100vh;
+    background-image: url("bkg1.jpg");
+    background-repeat: no-repeat;
+  
+}
+
